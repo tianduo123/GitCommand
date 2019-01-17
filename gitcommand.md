@@ -20,4 +20,5 @@
 -  git push -u origin master --> 关联后第一次推送master分支的所有内容
 -  git push origin master --> 将本地库的内容推送到远程库
 -  git clone 远程库地址 --> 从远程库克隆到本地库
+-  git test
 
